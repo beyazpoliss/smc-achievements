@@ -1,0 +1,14 @@
+com\smc\achievements\api\achievements\ProgressProfile.class
+com\smc\achievements\api\AchievementsCore.class
+com\smc\achievements\api\builder\CategoryBuilder.class
+com\smc\achievements\api\AchievementPlayer.class
+com\smc\achievements\api\achievements\Progress.class
+com\smc\achievements\api\achievements\Description.class
+com\smc\achievements\api\achievements\Reward.class
+com\smc\achievements\api\builder\AchievementBuilder.class
+com\smc\achievements\api\achievements\Achievement.class
+com\smc\achievements\api\achievements\Category.class
+com\smc\achievements\api\manager\ProgressManager.class
+com\smc\achievements\api\Provider.class
+com\smc\achievements\api\manager\CategoryManager.class
+com\smc\achievements\api\builder\DescriptionBuilder.class

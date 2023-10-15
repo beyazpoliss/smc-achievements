@@ -1,0 +1,7 @@
+name: smc-achievements
+main: com.smc.achievements.bukkit.AchievementsBukkitPlugin
+author: BeyazPolis
+version: 1.0
+api-version: 1.20
+commands:
+  achievements: {}
